@@ -20,6 +20,8 @@ You will need to install the Inquirer Package by going to the terminal and typin
   
  This will be used mostly by me, Kyleigh, on all my future projects to quickly generate README.md files.
 
+here's a video on how to use it: https://drive.google.com/file/d/1j5Dgd5T4D0FJq_tQ1wVSVyuGXi5K_Vn1/view
+
  
   ## Credits
 
