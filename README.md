@@ -34,5 +34,5 @@ You will need to install the Inquirer Package by going to the terminal and typin
  
   
   ## How to Contribute
-  They can tell me what to eliminate in this series of questions, because it feels long to me.
+Let me know if you think any questions should be removed or added in the series.
   
